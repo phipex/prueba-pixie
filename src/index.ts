@@ -16,4 +16,6 @@ clampy.anchor.set(0.5);
 clampy.x = app.screen.width / 2;
 clampy.y = app.screen.height / 2;
 
+//app.stage es el nombre de "toda la pantalla"
+
 app.stage.addChild(clampy);
